@@ -1,1 +1,1 @@
-[点击](../DAqIAn¡.md)
+[点击](./DAqIAn¡.md)
