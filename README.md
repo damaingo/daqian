@@ -1,6 +1,6 @@
 <h1 align=center>个人简历</h1>
 
-<img src="../logo.jpg" width='80px' hight='80px' align=right></img>
+<img src="logo.jpg" width='80px' hight='80px' align=right></img>
 
 <br> 
 
