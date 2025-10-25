@@ -11,11 +11,7 @@
 - 姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名：大钱/男/2006
 - 工作经验：1年
 - 求职意向：电气自动化方向
-- 专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业：工业机器人
 - &nbsp;GitHub&nbsp;&nbsp;：[https://github.com/damaingo](https://github.com/damaingo)
-- 电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：13218857546
-- 邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：damaingo@qq.com，damaingoo@gmail.com 
-- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：lsl-54188
 - 语&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;言：普通话
 
 ## 专业技能
